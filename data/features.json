@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Latest Equipment",
+    "description": "All equipment is latest.",
+    "image": "images/features/noun_shine_1141054.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "COVID-19 Safe",
+    "description": "All measures are taken to prevent COVID-19",
+    "image": "images/features/noun_Antivirus_3434810.svg"
   },
   {
-    "title": "Tax Compliance",
+    "title": "Children Specialist Available",
     "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/noun_Child_1095619.svg"
   }
 ]
